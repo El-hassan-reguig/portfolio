@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">El hassan reguig </span>
             from <span className="purple"> Laayoune , Morocco.</span>
             <br />
-            I am currently unemployed as a full stuck  developer .
+            I am currently intership as a full stuck  developer in WEBSARAHA agency.
             <br />
             I have completed DTS in ISGI Laayoune as full stuck developer
             <br />
